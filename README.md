@@ -1,2 +1,10 @@
-# awesomescifiwriters
-Awesome list of Sci-Fi writers
+# Awesome list of Sci-Fi writers
+
+1. Charlez Stross
+2. Neal Stephenson
+3. Vernor Vinge
+4. Cory Doctorow
+5. Craig Alanson
+6. Vasily Mahanenko
+7. Hannu Rajaniemi
+8. Andy Weir
