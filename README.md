@@ -8,3 +8,6 @@
 6. Vasily Mahanenko
 7. Hannu Rajaniemi
 8. Andy Weir
+9. Dennis E. Taylor
+10. David Weber
+11. John Scalzi
