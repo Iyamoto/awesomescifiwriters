@@ -15,4 +15,3 @@
 13. Richard Fox
 14. Zachary Mason
 15. Nicholas Eames
-16. Mark Wayne McGinnis
